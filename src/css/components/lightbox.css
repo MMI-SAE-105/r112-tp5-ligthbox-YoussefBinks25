@@ -7,23 +7,24 @@
     border: 4px solid rgb(#832222, #832222, #832222);
     padding: 30px;
     border-radius: 10px;
-        
+   
 }
 
 #lightbox[open] {
-    animation: showLightbox 0.5s ease-out forwards;
+    animation: showLightbox 1s ease-out forwards;
 
 }
 
 
 #lightbox[open] {
-    animation: showLightbox 0.5s ease-out forwards;
+    animation: showLightbox 1s ease-out forwards;
 
 }
 
 ::backdrop{
     background-color: rgb(150, 94, 48);
 opacity: 0.5;
+animation: fond 5s forwards
 }
 
 
