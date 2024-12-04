@@ -22,8 +22,8 @@
 }
 
 ::backdrop{
-    background-color: grey;
-opacity: 0.9;
+    background-color: rgb(150, 94, 48);
+opacity: 0.5;
 }
 
 
@@ -31,7 +31,6 @@ opacity: 0.9;
     width: 100%;
     height: 100%;
     opacity: 1;
-    border-radius: 20px;
 }
 
 #close-lightbox{
