@@ -2,7 +2,14 @@
 * Lightbox
 */
 dialog::backdrop{
-    background: brown;
+    background: #832222;
     opacity: 25%;
 
+}
+#lightbox {
+        background: white;
+    border: 4px solid rgb(#832222, #832222, #832222);
+    padding: 30px;
+    border-radius: 10px;
+        
 }
